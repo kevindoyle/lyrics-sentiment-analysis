@@ -1,0 +1,904 @@
+Question Marks
+(0, ['nickiminaj'])
+(1, ['asaprocky'])
+(2, ['joeybada', 'kendricklamar', 'notoriousbig', 'mosdef'])
+(3, ['lilwayne'])
+(4, ['schoolboyq'])
+(5, ['taylorswift', 'kanyewest'])
+(6, ['nas', 'wutangclan', '2pac', '50cent'])
+
+
+
+Death
+(0, ['taylorswift', 'nickiminaj', 'lilwayne', '50cent'])
+(1, ['joeybada'])
+(2, ['schoolboyq'])
+(3, ['kendricklamar', 'notoriousbig', 'mosdef'])
+(4, ['nas', '2pac', 'kanyewest'])
+(5, ['asaprocky'])
+(6, ['wutangclan'])
+
+
+
+Word Count
+(0, ['lilwayne'])
+(1, ['taylorswift', 'notoriousbig', 'mosdef'])
+(2, ['nas', '50cent'])
+(3, ['kendricklamar', 'nickiminaj', 'kanyewest'])
+(4, ['wutangclan'])
+(5, ['2pac'])
+(6, ['joeybada', 'asaprocky', 'schoolboyq'])
+
+
+
+Second Person
+(0, ['joeybada', 'asaprocky', 'mosdef'])
+(1, ['wutangclan', '50cent'])
+(2, ['kendricklamar', 'nickiminaj'])
+(3, ['taylorswift', 'schoolboyq'])
+(4, ['nas', '2pac', 'lilwayne'])
+(5, ['notoriousbig'])
+(6, ['kanyewest'])
+
+
+
+Tentative
+(0, ['lilwayne'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['kendricklamar', 'notoriousbig'])
+(3, ['nickiminaj', 'kanyewest'])
+(4, ['nas', 'wutangclan', '2pac', '50cent'])
+(5, ['taylorswift', 'mosdef'])
+(6, ['joeybada'])
+
+
+
+Negative Emotion
+(0, ['wutangclan', 'kanyewest'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['notoriousbig'])
+(3, ['lilwayne'])
+(4, ['joeybada'])
+(5, ['kendricklamar', 'taylorswift', 'nickiminaj', 'mosdef'])
+(6, ['nas', '2pac', '50cent'])
+
+
+
+Humans
+(0, ['joeybada'])
+(1, ['nas', 'wutangclan', '50cent'])
+(2, ['nickiminaj', 'kanyewest'])
+(3, ['asaprocky', 'schoolboyq', 'mosdef'])
+(4, ['2pac', 'lilwayne'])
+(5, ['kendricklamar'])
+(6, ['taylorswift', 'notoriousbig'])
+
+
+
+Social Processes
+(0, ['taylorswift', 'mosdef'])
+(1, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(2, ['kendricklamar', 'nickiminaj', 'kanyewest'])
+(3, ['schoolboyq'])
+(4, ['joeybada'])
+(5, ['asaprocky'])
+(6, ['notoriousbig'])
+
+
+
+Relativity
+(0, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(1, ['taylorswift', 'mosdef'])
+(2, ['schoolboyq'])
+(3, ['nickiminaj', 'kanyewest'])
+(4, ['joeybada'])
+(5, ['asaprocky'])
+(6, ['kendricklamar', 'notoriousbig'])
+
+
+
+Auxiliary Verbs
+(0, ['nas', 'wutangclan', '2pac', '50cent'])
+(1, ['joeybada', 'asaprocky', 'schoolboyq'])
+(2, ['kendricklamar', 'nickiminaj', 'notoriousbig'])
+(3, ['taylorswift'])
+(4, ['mosdef'])
+(5, ['kanyewest'])
+(6, ['lilwayne'])
+
+
+
+Perceptual Processes
+(0, ['kendricklamar', 'nickiminaj', 'kanyewest'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['2pac', 'lilwayne'])
+(3, ['taylorswift'])
+(4, ['joeybada', 'mosdef'])
+(5, ['nas', 'wutangclan', '50cent'])
+(6, ['notoriousbig'])
+
+
+
+Home
+(0, ['asaprocky', 'schoolboyq'])
+(1, ['nas', '2pac', 'lilwayne', '50cent'])
+(2, ['joeybada', 'mosdef'])
+(3, ['kendricklamar', 'kanyewest'])
+(4, ['notoriousbig'])
+(5, ['taylorswift'])
+(6, ['wutangclan', 'nickiminaj'])
+
+
+
+Religion
+(0, ['joeybada', 'notoriousbig', 'mosdef'])
+(1, ['2pac', '50cent'])
+(2, ['asaprocky', 'schoolboyq'])
+(3, ['taylorswift', 'kanyewest'])
+(4, ['nickiminaj', 'lilwayne'])
+(5, ['kendricklamar'])
+(6, ['nas', 'wutangclan'])
+
+
+
+Unique Words
+(0, ['wutangclan', 'kendricklamar', 'taylorswift', 'nickiminaj', 'kanyewest'])
+(1, ['asaprocky'])
+(2, ['mosdef'])
+(3, ['nas', '2pac', 'lilwayne', '50cent'])
+(4, ['joeybada'])
+(5, ['schoolboyq'])
+(6, ['notoriousbig'])
+
+
+
+Health
+(0, ['joeybada', 'asaprocky'])
+(1, ['taylorswift', 'nickiminaj', 'kanyewest'])
+(2, ['schoolboyq'])
+(3, ['lilwayne', '50cent'])
+(4, ['kendricklamar', 'notoriousbig'])
+(5, ['mosdef'])
+(6, ['nas', 'wutangclan', '2pac'])
+
+
+
+Common Verbs
+(0, ['kanyewest'])
+(1, ['joeybada', 'asaprocky'])
+(2, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(3, ['mosdef'])
+(4, ['kendricklamar', 'nickiminaj', 'notoriousbig'])
+(5, ['schoolboyq'])
+(6, ['taylorswift'])
+
+
+
+Total Pronouns
+(0, ['nas', '2pac', 'lilwayne'])
+(1, ['taylorswift', 'mosdef'])
+(2, ['asaprocky', 'schoolboyq'])
+(3, ['kendricklamar', 'nickiminaj', 'notoriousbig'])
+(4, ['joeybada'])
+(5, ['wutangclan', '50cent'])
+(6, ['kanyewest'])
+
+
+
+Feel
+(0, ['nas', '2pac', 'lilwayne', '50cent'])
+(1, ['joeybada', 'mosdef'])
+(2, ['kendricklamar', 'nickiminaj'])
+(3, ['asaprocky'])
+(4, ['taylorswift', 'notoriousbig'])
+(5, ['wutangclan', 'kanyewest'])
+(6, ['schoolboyq'])
+
+
+
+Inclusive
+(0, ['kendricklamar', 'notoriousbig'])
+(1, ['joeybada', 'mosdef'])
+(2, ['nas', '2pac', 'lilwayne', '50cent'])
+(3, ['asaprocky', 'schoolboyq'])
+(4, ['taylorswift'])
+(5, ['nickiminaj', 'kanyewest'])
+(6, ['wutangclan'])
+
+
+
+Past Tense
+(0, ['lilwayne'])
+(1, ['joeybada', 'taylorswift'])
+(2, ['kendricklamar', 'notoriousbig', 'mosdef'])
+(3, ['schoolboyq'])
+(4, ['nas', 'wutangclan', '2pac', '50cent'])
+(5, ['nickiminaj', 'kanyewest'])
+(6, ['asaprocky'])
+
+
+
+Body
+(0, ['kendricklamar', 'taylorswift'])
+(1, ['schoolboyq'])
+(2, ['joeybada'])
+(3, ['nas', '2pac', 'lilwayne', '50cent'])
+(4, ['asaprocky'])
+(5, ['notoriousbig', 'mosdef'])
+(6, ['wutangclan', 'nickiminaj', 'kanyewest'])
+
+
+
+Numerals
+(0, ['taylorswift', 'lilwayne'])
+(1, ['joeybada'])
+(2, ['kendricklamar', 'kanyewest', '50cent', 'mosdef'])
+(3, ['schoolboyq'])
+(4, ['asaprocky'])
+(5, ['nickiminaj', 'notoriousbig'])
+(6, ['nas', 'wutangclan', '2pac'])
+
+
+
+Colon
+(0, ['lilwayne'])
+(1, ['asaprocky'])
+(2, ['joeybada', 'taylorswift', 'notoriousbig'])
+(3, ['wutangclan', 'kendricklamar', 'nickiminaj'])
+(4, ['schoolboyq'])
+(5, ['kanyewest', 'mosdef'])
+(6, ['nas', '2pac', '50cent'])
+
+
+
+Six Letter Words
+(0, ['2pac', 'lilwayne', '50cent'])
+(1, ['joeybada'])
+(2, ['wutangclan', 'nickiminaj', 'kanyewest'])
+(3, ['kendricklamar', 'taylorswift', 'notoriousbig'])
+(4, ['asaprocky', 'schoolboyq'])
+(5, ['mosdef'])
+(6, ['nas'])
+
+
+
+Other Punctuation
+(0, ['joeybada', 'kanyewest'])
+(1, ['taylorswift', 'notoriousbig'])
+(2, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(3, ['asaprocky', 'schoolboyq'])
+(4, ['mosdef'])
+(5, ['kendricklamar'])
+(6, ['nickiminaj'])
+
+
+
+Third Person Singular
+(0, ['nas', 'wutangclan', 'lilwayne', '50cent'])
+(1, ['asaprocky'])
+(2, ['kendricklamar', 'taylorswift', 'nickiminaj', 'notoriousbig'])
+(3, ['schoolboyq'])
+(4, ['kanyewest', 'mosdef'])
+(5, ['joeybada'])
+(6, ['2pac'])
+
+
+
+Third Person Plural
+(0, ['asaprocky', 'schoolboyq'])
+(1, ['nas', 'taylorswift', '2pac', '50cent'])
+(2, ['nickiminaj'])
+(3, ['kendricklamar', 'notoriousbig', 'kanyewest'])
+(4, ['wutangclan', 'lilwayne'])
+(5, ['mosdef'])
+(6, ['joeybada'])
+
+
+
+Leisure
+(0, ['2pac', 'lilwayne'])
+(1, ['asaprocky', 'mosdef'])
+(2, ['joeybada', 'kendricklamar', 'kanyewest'])
+(3, ['nas', 'wutangclan', '50cent'])
+(4, ['schoolboyq'])
+(5, ['taylorswift', 'notoriousbig'])
+(6, ['nickiminaj'])
+
+
+
+ Impersonal Pronouns
+(0, ['nas', 'wutangclan', '50cent'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['kendricklamar', 'nickiminaj', 'notoriousbig', 'kanyewest'])
+(3, ['taylorswift'])
+(4, ['mosdef'])
+(5, ['joeybada'])
+(6, ['2pac', 'lilwayne'])
+
+
+
+Inhibition
+(0, ['asaprocky'])
+(1, ['nas', '2pac', 'lilwayne', '50cent'])
+(2, ['wutangclan', 'kendricklamar', 'nickiminaj', 'kanyewest'])
+(3, ['schoolboyq'])
+(4, ['taylorswift'])
+(5, ['joeybada', 'mosdef'])
+(6, ['notoriousbig'])
+
+
+
+Hear
+(0, ['kendricklamar', 'kanyewest'])
+(1, ['mosdef'])
+(2, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(3, ['joeybada', 'notoriousbig'])
+(4, ['asaprocky'])
+(5, ['taylorswift', 'schoolboyq'])
+(6, ['nickiminaj'])
+
+
+
+Total Function Words
+(0, ['kendricklamar', 'notoriousbig'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['nas', 'wutangclan', '2pac', '50cent'])
+(3, ['taylorswift', 'mosdef'])
+(4, ['nickiminaj', 'kanyewest'])
+(5, ['joeybada'])
+(6, ['lilwayne'])
+
+
+
+Dictionary Words
+(0, ['nickiminaj', 'kanyewest'])
+(1, ['joeybada'])
+(2, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(3, ['taylorswift'])
+(4, ['asaprocky', 'schoolboyq'])
+(5, ['kendricklamar', 'notoriousbig'])
+(6, ['mosdef'])
+
+
+
+Adverbs
+(0, ['kendricklamar', 'nickiminaj', 'notoriousbig', 'kanyewest'])
+(1, ['joeybada', 'asaprocky'])
+(2, ['nas', 'wutangclan', '2pac', '50cent'])
+(3, ['taylorswift'])
+(4, ['mosdef'])
+(5, ['schoolboyq'])
+(6, ['lilwayne'])
+
+
+
+Present Tense
+(0, ['nas', 'wutangclan', '2pac', 'lilwayne'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['nickiminaj', 'notoriousbig'])
+(3, ['taylorswift', 'mosdef'])
+(4, ['joeybada'])
+(5, ['kendricklamar', 'kanyewest'])
+(6, ['50cent'])
+
+
+
+Friends
+(0, ['50cent'])
+(1, ['schoolboyq'])
+(2, ['joeybada', 'taylorswift', 'mosdef'])
+(3, ['notoriousbig'])
+(4, ['nas', 'wutangclan', '2pac', 'lilwayne'])
+(5, ['kendricklamar', 'nickiminaj', 'kanyewest'])
+(6, ['asaprocky'])
+
+
+
+Positive Emotion
+(0, ['nas', 'wutangclan', '2pac', '50cent'])
+(1, ['joeybada', 'asaprocky'])
+(2, ['kendricklamar', 'nickiminaj', 'notoriousbig'])
+(3, ['schoolboyq', 'mosdef'])
+(4, ['kanyewest'])
+(5, ['lilwayne'])
+(6, ['taylorswift'])
+
+
+
+Achievement
+(0, ['nickiminaj', 'notoriousbig', 'kanyewest'])
+(1, ['joeybada'])
+(2, ['nas', '2pac', 'lilwayne', '50cent'])
+(3, ['asaprocky', 'mosdef'])
+(4, ['kendricklamar', 'taylorswift'])
+(5, ['schoolboyq'])
+(6, ['wutangclan'])
+
+
+
+Negations
+(0, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(1, ['asaprocky'])
+(2, ['kendricklamar', 'nickiminaj', 'kanyewest'])
+(3, ['joeybada'])
+(4, ['taylorswift', 'mosdef'])
+(5, ['schoolboyq'])
+(6, ['notoriousbig'])
+
+
+
+Articles
+(0, ['nas', '2pac', 'lilwayne', '50cent'])
+(1, ['joeybada'])
+(2, ['kendricklamar', 'taylorswift', 'nickiminaj', 'notoriousbig'])
+(3, ['asaprocky'])
+(4, ['wutangclan', 'kanyewest'])
+(5, ['mosdef'])
+(6, ['schoolboyq'])
+
+
+
+Anxiety
+(0, ['wutangclan', '2pac', 'kanyewest'])
+(1, ['joeybada', 'asaprocky', 'taylorswift'])
+(2, ['nas', '50cent'])
+(3, ['schoolboyq', 'mosdef'])
+(4, ['notoriousbig'])
+(5, ['lilwayne'])
+(6, ['kendricklamar', 'nickiminaj'])
+
+
+
+Future Tense
+(0, ['nickiminaj', 'notoriousbig', 'kanyewest', 'mosdef'])
+(1, ['joeybada', 'taylorswift', 'schoolboyq'])
+(2, ['50cent'])
+(3, ['asaprocky'])
+(4, ['nas', 'wutangclan', '2pac'])
+(5, ['lilwayne'])
+(6, ['kendricklamar'])
+
+
+
+Family
+(0, ['nas', 'taylorswift'])
+(1, ['joeybada', 'notoriousbig', 'mosdef'])
+(2, ['schoolboyq'])
+(3, ['2pac', 'lilwayne', '50cent'])
+(4, ['kendricklamar'])
+(5, ['wutangclan', 'nickiminaj', 'kanyewest'])
+(6, ['asaprocky'])
+
+
+
+Personal Pronouns
+(0, ['joeybada'])
+(1, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(2, ['kendricklamar', 'nickiminaj', 'notoriousbig'])
+(3, ['asaprocky', 'schoolboyq'])
+(4, ['taylorswift'])
+(5, ['kanyewest'])
+(6, ['mosdef'])
+
+
+
+Biological Processes
+(0, ['nas', '2pac', 'lilwayne', '50cent'])
+(1, ['asaprocky'])
+(2, ['notoriousbig', 'mosdef'])
+(3, ['kendricklamar', 'taylorswift', 'nickiminaj'])
+(4, ['schoolboyq'])
+(5, ['joeybada'])
+(6, ['wutangclan', 'kanyewest'])
+
+
+
+Certainty
+(0, ['nas', 'wutangclan', '2pac'])
+(1, ['joeybada', 'taylorswift'])
+(2, ['kendricklamar', 'notoriousbig', 'kanyewest'])
+(3, ['mosdef'])
+(4, ['asaprocky', 'schoolboyq'])
+(5, ['lilwayne', '50cent'])
+(6, ['nickiminaj'])
+
+
+
+Work
+(0, ['nas', 'wutangclan', 'taylorswift', 'nickiminaj'])
+(1, ['joeybada', 'mosdef'])
+(2, ['schoolboyq'])
+(3, ['kendricklamar', 'kanyewest'])
+(4, ['2pac', 'lilwayne', '50cent'])
+(5, ['asaprocky'])
+(6, ['notoriousbig'])
+
+
+
+Motion
+(0, ['taylorswift', 'mosdef'])
+(1, ['kanyewest'])
+(2, ['joeybada', 'asaprocky'])
+(3, ['nas', '2pac', 'lilwayne'])
+(4, ['schoolboyq'])
+(5, ['wutangclan', '50cent'])
+(6, ['kendricklamar', 'nickiminaj', 'notoriousbig'])
+
+
+
+Sadness
+(0, ['taylorswift', 'schoolboyq'])
+(1, ['nickiminaj', 'kanyewest'])
+(2, ['lilwayne', '50cent'])
+(3, ['joeybada'])
+(4, ['kendricklamar', 'notoriousbig', 'mosdef'])
+(5, ['asaprocky'])
+(6, ['nas', 'wutangclan', '2pac'])
+
+
+
+Ingestion
+(0, ['wutangclan', 'kanyewest'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['kendricklamar', 'notoriousbig'])
+(3, ['nas', 'taylorswift', 'lilwayne', '50cent'])
+(4, ['joeybada', 'mosdef'])
+(5, ['nickiminaj'])
+(6, ['2pac'])
+
+
+
+Space
+(0, ['schoolboyq'])
+(1, ['kendricklamar', 'nickiminaj', 'kanyewest'])
+(2, ['joeybada', 'mosdef'])
+(3, ['nas', '2pac', 'lilwayne', '50cent'])
+(4, ['taylorswift', 'notoriousbig'])
+(5, ['asaprocky'])
+(6, ['wutangclan'])
+
+
+
+First Person Singular
+(0, ['kendricklamar', 'nickiminaj', 'notoriousbig', 'mosdef'])
+(1, ['schoolboyq'])
+(2, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(3, ['taylorswift'])
+(4, ['joeybada'])
+(5, ['asaprocky'])
+(6, ['kanyewest'])
+
+
+
+Time
+(0, ['kendricklamar', 'notoriousbig'])
+(1, ['joeybada', 'schoolboyq'])
+(2, ['nas', 'wutangclan', '2pac', '50cent'])
+(3, ['taylorswift', 'mosdef'])
+(4, ['lilwayne'])
+(5, ['asaprocky'])
+(6, ['nickiminaj', 'kanyewest'])
+
+
+
+Parenthesis
+(0, ['joeybada', 'kanyewest'])
+(1, ['schoolboyq'])
+(2, ['lilwayne'])
+(3, ['asaprocky', 'notoriousbig'])
+(4, ['nas', 'wutangclan', 'taylorswift', '2pac', '50cent'])
+(5, ['mosdef'])
+(6, ['kendricklamar', 'nickiminaj'])
+
+
+
+Apostrophe
+(0, ['asaprocky'])
+(1, ['nas', 'wutangclan', '2pac'])
+(2, ['joeybada'])
+(3, ['nickiminaj', 'notoriousbig', 'mosdef'])
+(4, ['schoolboyq'])
+(5, ['taylorswift', 'lilwayne'])
+(6, ['kendricklamar', 'kanyewest', '50cent'])
+
+
+
+Swear Words
+(0, ['asaprocky', 'schoolboyq'])
+(1, ['kendricklamar'])
+(2, ['notoriousbig'])
+(3, ['nas', 'taylorswift'])
+(4, ['wutangclan', '2pac', 'lilwayne', 'kanyewest', '50cent', 'mosdef'])
+(5, ['joeybada'])
+(6, ['nickiminaj'])
+
+
+
+Words Per Sentence
+(0, ['nas', 'kendricklamar', 'lilwayne'])
+(1, ['joeybada'])
+(2, ['2pac', 'kanyewest', '50cent'])
+(3, ['asaprocky'])
+(4, ['wutangclan', 'schoolboyq'])
+(5, ['taylorswift', 'notoriousbig'])
+(6, ['nickiminaj', 'mosdef'])
+
+
+
+Cognitive Processes
+(0, ['kendricklamar', 'notoriousbig'])
+(1, ['joeybada', 'asaprocky', 'schoolboyq'])
+(2, ['nas', 'wutangclan', '2pac', '50cent'])
+(3, ['mosdef'])
+(4, ['nickiminaj', 'kanyewest'])
+(5, ['lilwayne'])
+(6, ['taylorswift'])
+
+
+
+Quote Marks
+(0, ['2pac', 'lilwayne', '50cent'])
+(1, ['taylorswift', 'mosdef'])
+(2, ['asaprocky', 'schoolboyq'])
+(3, ['kendricklamar', 'kanyewest'])
+(4, ['notoriousbig'])
+(5, ['nas', 'wutangclan', 'nickiminaj'])
+(6, ['joeybada'])
+
+
+
+Fillers
+(0, ['wutangclan', 'kendricklamar', 'taylorswift', 'kanyewest'])
+(1, ['asaprocky'])
+(2, ['nas', '2pac', 'lilwayne', '50cent'])
+(3, ['mosdef'])
+(4, ['schoolboyq'])
+(5, ['joeybada'])
+(6, ['nickiminaj', 'notoriousbig'])
+
+
+
+Exclusive
+(0, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['kendricklamar'])
+(3, ['joeybada'])
+(4, ['taylorswift'])
+(5, ['nickiminaj', 'notoriousbig', 'kanyewest'])
+(6, ['mosdef'])
+
+
+
+Semicolon
+(0, ['2pac', 'kanyewest', '50cent'])
+(1, ['schoolboyq'])
+(2, ['notoriousbig'])
+(3, ['nas', 'mosdef'])
+(4, ['asaprocky', 'lilwayne'])
+(5, ['joeybada', 'kendricklamar', 'taylorswift'])
+(6, ['wutangclan', 'nickiminaj'])
+
+
+
+All Punctuation
+(0, ['joeybada', 'notoriousbig'])
+(1, ['nas', '2pac', 'lilwayne', '50cent'])
+(2, ['schoolboyq'])
+(3, ['asaprocky'])
+(4, ['wutangclan', 'kendricklamar', 'nickiminaj', 'kanyewest'])
+(5, ['mosdef'])
+(6, ['taylorswift'])
+
+
+
+Prepositions
+(0, ['nas', '2pac', 'lilwayne', '50cent'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['taylorswift', 'notoriousbig'])
+(3, ['kendricklamar'])
+(4, ['mosdef'])
+(5, ['wutangclan', 'nickiminaj', 'kanyewest'])
+(6, ['joeybada'])
+
+
+
+Quantifiers
+(0, ['taylorswift', 'notoriousbig'])
+(1, ['nas', 'wutangclan', '2pac', '50cent'])
+(2, ['asaprocky', 'schoolboyq'])
+(3, ['kendricklamar', 'nickiminaj', 'kanyewest'])
+(4, ['joeybada'])
+(5, ['lilwayne'])
+(6, ['mosdef'])
+
+
+
+Money
+(0, ['nas', 'wutangclan', 'taylorswift', '2pac', 'lilwayne'])
+(1, ['schoolboyq'])
+(2, ['joeybada'])
+(3, ['nickiminaj', 'notoriousbig'])
+(4, ['mosdef'])
+(5, ['asaprocky'])
+(6, ['kendricklamar', 'kanyewest', '50cent'])
+
+
+
+Causation
+(0, ['kendricklamar', 'nickiminaj', 'notoriousbig'])
+(1, ['joeybada'])
+(2, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(3, ['taylorswift', 'mosdef'])
+(4, ['asaprocky'])
+(5, ['schoolboyq'])
+(6, ['kanyewest'])
+
+
+
+Insight
+(0, ['nas', 'wutangclan', '2pac', '50cent'])
+(1, ['asaprocky', 'taylorswift'])
+(2, ['nickiminaj', 'notoriousbig', 'kanyewest'])
+(3, ['mosdef'])
+(4, ['joeybada', 'schoolboyq'])
+(5, ['lilwayne'])
+(6, ['kendricklamar'])
+
+
+
+Assent
+(0, ['nas', 'wutangclan', '2pac', 'lilwayne'])
+(1, ['asaprocky', 'taylorswift'])
+(2, ['mosdef'])
+(3, ['nickiminaj', 'notoriousbig'])
+(4, ['schoolboyq'])
+(5, ['kendricklamar', '50cent'])
+(6, ['joeybada', 'kanyewest'])
+
+
+
+Number
+(0, ['2pac', 'lilwayne', '50cent'])
+(1, ['joeybada', 'asaprocky', 'notoriousbig'])
+(2, ['wutangclan'])
+(3, ['schoolboyq'])
+(4, ['nas', 'nickiminaj', 'kanyewest'])
+(5, ['kendricklamar', 'taylorswift'])
+(6, ['mosdef'])
+
+
+
+Discrepancy
+(0, ['kendricklamar', 'nickiminaj', 'notoriousbig', 'mosdef'])
+(1, ['asaprocky', 'taylorswift'])
+(2, ['nas', 'wutangclan', '2pac', 'lilwayne'])
+(3, ['joeybada'])
+(4, ['kanyewest'])
+(5, ['schoolboyq'])
+(6, ['50cent'])
+
+
+
+Conjunctions
+(0, ['kendricklamar', 'notoriousbig'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['nas', 'wutangclan', '2pac', '50cent'])
+(3, ['taylorswift', 'mosdef'])
+(4, ['nickiminaj', 'kanyewest'])
+(5, ['joeybada'])
+(6, ['lilwayne'])
+
+
+
+Dash
+(0, ['joeybada', 'taylorswift'])
+(1, ['schoolboyq'])
+(2, ['kendricklamar', 'asaprocky', 'nickiminaj'])
+(3, ['nas', '2pac', 'lilwayne', '50cent'])
+(4, ['mosdef'])
+(5, ['notoriousbig'])
+(6, ['wutangclan', 'kanyewest'])
+
+
+
+Nonfluencies
+(0, ['taylorswift', 'kanyewest', 'mosdef'])
+(1, ['asaprocky'])
+(2, ['50cent'])
+(3, ['schoolboyq'])
+(4, ['joeybada', 'notoriousbig'])
+(5, ['kendricklamar', 'nickiminaj'])
+(6, ['nas', 'wutangclan', '2pac', 'lilwayne'])
+
+
+
+See
+(0, ['nickiminaj', 'kanyewest'])
+(1, ['joeybada', 'asaprocky'])
+(2, ['2pac', 'lilwayne'])
+(3, ['taylorswift', 'mosdef'])
+(4, ['schoolboyq'])
+(5, ['kendricklamar', 'notoriousbig'])
+(6, ['nas', 'wutangclan', '50cent'])
+
+
+
+Comma
+(0, ['asaprocky'])
+(1, ['nas', '50cent'])
+(2, ['joeybada', 'notoriousbig', 'mosdef'])
+(3, ['wutangclan', 'kendricklamar', 'nickiminaj', 'kanyewest'])
+(4, ['schoolboyq'])
+(5, ['2pac', 'lilwayne'])
+(6, ['taylorswift'])
+
+
+
+First Person Plural
+(0, ['wutangclan', 'nickiminaj'])
+(1, ['schoolboyq'])
+(2, ['joeybada', 'asaprocky'])
+(3, ['nas', '2pac', 'lilwayne', '50cent'])
+(4, ['mosdef'])
+(5, ['kendricklamar', 'notoriousbig', 'kanyewest'])
+(6, ['taylorswift'])
+
+
+
+Sentences
+(0, ['nas'])
+(1, ['kendricklamar', 'taylorswift', 'nickiminaj'])
+(2, ['2pac', 'lilwayne'])
+(3, ['joeybada', 'asaprocky', 'schoolboyq'])
+(4, ['wutangclan', 'notoriousbig', 'kanyewest'])
+(5, ['50cent'])
+(6, ['mosdef'])
+
+
+
+Anger
+(0, ['kendricklamar', 'nickiminaj'])
+(1, ['asaprocky', 'schoolboyq'])
+(2, ['2pac', '50cent'])
+(3, ['notoriousbig'])
+(4, ['wutangclan', 'kanyewest', 'mosdef'])
+(5, ['joeybada'])
+(6, ['nas', 'taylorswift', 'lilwayne'])
+
+
+
+Exclamation Marks
+(0, ['joeybada', 'kendricklamar', 'asaprocky', 'nickiminaj'])
+(1, ['schoolboyq'])
+(2, ['50cent'])
+(3, ['mosdef'])
+(4, ['nas', 'taylorswift', '2pac', 'lilwayne'])
+(5, ['notoriousbig'])
+(6, ['wutangclan', 'kanyewest'])
+
+
+
+Sexual
+(0, ['kendricklamar', 'nickiminaj', 'mosdef'])
+(1, ['schoolboyq'])
+(2, ['nas', '2pac', 'lilwayne'])
+(3, ['joeybada', 'notoriousbig'])
+(4, ['asaprocky'])
+(5, ['taylorswift', 'kanyewest'])
+(6, ['wutangclan', '50cent'])
+
+
+
+Affective Processes
+(0, ['nas', 'wutangclan', '2pac', 'lilwayne', '50cent'])
+(1, ['joeybada'])
+(2, ['taylorswift', 'notoriousbig'])
+(3, ['asaprocky', 'schoolboyq'])
+(4, ['kanyewest'])
+(5, ['mosdef'])
+(6, ['kendricklamar', 'nickiminaj'])
+
+
+
+NONE  is most like  taylorswift
+[('taylorswift', 40), ('NONE', 7), ('mosdef', 7), ('nas', 6), ('nickiminaj', 5), ('notoriousbig', 5), ('joeybada', 4), ('kendricklamar', 4), ('asaprocky', 4), ('lilwayne', 4), ('kanyewest', 3), ('schoolboyq', 3), ('wutangclan', 2), ('50cent', 2), ('2pac', 1)]

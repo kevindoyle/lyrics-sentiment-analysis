@@ -21,7 +21,7 @@ if __name__ == '__main__':
    while i < len( art_list ):
       artist_name = art_list[i+1].strip()
       artist_name_dic[artist_name] = 0
-      score_file_name = "SCORES/" + artist_name + "SCORES.pickle"
+      score_file_name = "./SCORES/" + artist_name + "SCORES.pickle"
       with open(score_file_name, 'r') as sfn:
          scores = pickle.load(sfn)
       scores_dic[artist_name] = scores
@@ -53,13 +53,13 @@ if __name__ == '__main__':
          except KeyError:
             clusters[key][grp] = names[idx]
    
-   """  #FOR OUTPUT OF ALL CLUSTERS
+    #FOR OUTPUT OF ALL CLUSTERS
    for key in clusters.keys():
       print key
       for group in clusters[key].items():
          print group
       print '\n\n'
-   """
+   
    artist_name_dic['NONE'] = 0
    for key in open("cats_selection.txt", 'r').read().splitlines():
       for group in clusters[key].items():
@@ -73,7 +73,6 @@ if __name__ == '__main__':
    results = artist_name_dic.items()
    results = sorted( results, key=lambda pairs: pairs[1], reverse=True)
    print results[1][0], " is most like ", results[0][0]
-   #print results
-   
    print results
+
    
