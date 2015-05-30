@@ -3,16 +3,18 @@ Last updated: 2015/5/29
 Welcome! This is a quick, fun project I work on occasionally. It's not very well structured. Please don't judge me :)
 
 Attention:
-If you're downloading this hoping to use it as is, it's not going to work.
--You need some libraries, listed below. These are not difficult to get.
--You need a sentiment analysis tool. This will probably be a problem. Sorry.
+   If you're downloading this hoping to use it as is, it's not going to work.
+   -You need some libraries, listed below. These are not difficult to get.
+   -You need a sentiment analysis tool. This will probably be a problem. Sorry.
+
+   Peek at example_output.txt if you'd like to see some output.
 
 Non-standard Libraries used:
    NLTK
    scikit-learn
    newspaper
 
-What I have in .git/info/exclude:
+What I have in git/info/exclude:
    *.pyc
    *.dic
    word_category_counter.py
