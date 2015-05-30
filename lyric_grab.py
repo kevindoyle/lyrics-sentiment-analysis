@@ -22,7 +22,7 @@ def pick_time():
    return times[0]
 
 def mix_scrape_save( URL, name):
-   outfile = name + "EXT.txt"
+   outfile = "EXT/" + name + "EXT.txt"
    text = ''
    
    shuffle(USER_AGENTS)
@@ -52,41 +52,6 @@ def mix_scrape_save( URL, name):
          except UnicodeEncodeError:
             pass
    
-   
-def scrape_and_save( name ):
-   infile = name + "URL.txt"
-   outfile = "EXT/" + name + "EXT.txt"
-   extractions = []
-
-   with open(infile, 'r') as f:
-      raw_url = f.read()
-      f.close()
-
-      URL_list = raw_url.splitlines()
-
-      
-      for URL in URL_list:
-         try:
-            #extractions.append(Extractor(extractor='ArticleExtractor', url=URL))
-            article = Article(URL)
-            article.download()
-            article.parse()
-            text = article.text.replace('\n', ' ')
-            extractions.append(text)
-            print("Pulled {0}".format(URL.strip()))
-            time.sleep(pick_time())  
-         except urllib2.HTTPError:
-            print("HTTPError {0}".format(URL.strip()))
-            time.sleep(8)
-      
-      
-   with open(outfile, 'a') as of:
-      for song in extractions:
-         for char in song:
-            try:
-               of.write(char)
-            except UnicodeEncodeError:
-               pass
          
 if __name__ == '__main__':
    list_file = sys.argv[1]
@@ -94,31 +59,31 @@ if __name__ == '__main__':
    with open(list_file, 'r') as arts:
       art_list = arts.readlines()
       
-      i = 0
-      """
-      while i < len( art_list ):
-         name = art_list[i+1].strip()
-         scrape_and_save( name )
-         time.sleep(10) 
-         i = i+2
-      """
-      URL_name_list = []
-      while i < len( art_list ):
-         name = art_list[i+1].strip()
-         URLfile = name + "URL.txt"
-         
-         with open(URLfile, 'r') as f:
-            URL_list = f.readlines()
-         
-         for URL in URL_list:
-            URL_name_list.append( (URL.strip(), name) )
-         
-         #time.sleep(10) 
-         i = i+2
-         
-      print "URL_name_list: ", len(URL_name_list)
+   i = 0
+   """
+   while i < len( art_list ):
+      name = art_list[i+1].strip()
+      scrape_and_save( name )
+      time.sleep(10) 
+      i = i+2
+   """
+   URL_name_list = []
+   while i < len( art_list ):
+      name = art_list[i+1].strip()
+      URLfile = name + "URL.txt"
       
-      shuffle(URL_name_list)
+      with open(URLfile, 'r') as f:
+         URL_list = f.readlines()
       
-      for URL, name in URL_name_list:
-         mix_scrape_save( URL, name )
+      for URL in URL_list:
+         URL_name_list.append( (URL.strip(), name) )
+      
+      #time.sleep(10) 
+      i = i+2
+      
+   print "URL_name_list: ", len(URL_name_list)
+   
+   shuffle(URL_name_list)
+   
+   for URL, name in URL_name_list:
+      mix_scrape_save( URL, name )

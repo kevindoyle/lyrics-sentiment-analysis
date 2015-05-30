@@ -39,11 +39,11 @@ if __name__ == '__main__':
    with open(list_file, 'r') as arts:
       art_list = arts.readlines()
       
-      i = 0
-      
-      while i < len( art_list ):
-         url = art_list[i].strip()
-         name = art_list[i+1].strip()
-         get_urls( url, name )
-         time.sleep(10) 
-         i = i+2
+   i = 0
+   
+   while i < len( art_list ):
+      url = art_list[i].strip()
+      name = art_list[i+1].strip()
+      get_urls( url, name )
+      time.sleep(10) 
+      i = i+2
