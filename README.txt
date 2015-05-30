@@ -2,7 +2,14 @@ Last updated: 2015/5/29
 
 Welcome! This is a quick, fun project I work on occasionally. It's not very well structured. Please don't judge me :)
 
-Attention:
+The idea:
+   Currently focused on hip-hop, this is my attempt to quantify variety within the genre. 
+   
+   The content of artists' lyrical work can vary dramatically. For example, some artists glamorize drugs, guns, and/or money (50-cent "Many Men", Notorious B.I.G. "Ten Crack Commandments"), and other artists are dedicated to discussing the realities of growing up around those influences (J.Cole "03' Adolescence", K.Lamar's entire good kid, m.A.A.d city). My goal here is to explore the content delivered by a song, removed from the sound and stigma with which the content is delivered.
+
+   For fun, I included Taylor Swift as an artist. Not surprisingly, her lyrics have no strong relations with the rest of the group. 
+
+Needs Attention:
    If you're downloading this hoping to use it as is, it's not going to work.
    -You need some libraries, listed below. These are not difficult to get.
    -You need a sentiment analysis tool. This will probably be a problem. Sorry.
