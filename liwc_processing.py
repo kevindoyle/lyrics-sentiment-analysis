@@ -86,12 +86,12 @@ def process_lyrics( artist_name ):
    liwc_scores = word_category_counter.score_text(raw_songs)
    normalized_liwc_scores = word_category_counter.normalize_scores(liwc_scores)
    
-   outfile = artist_name + "SCORES.txt"
+   outfile = "SCORES/" + artist_name + "SCORES.txt"
    with open(outfile, 'w') as outf:
       for name, value in normalized_liwc_scores.items():
          outf.write("{0}\n{1}\n".format(name, value))
    
-   outfile = artist_name + "SCORES.pickle"
+   outfile = "SCORES/" + artist_name + "SCORES.pickle"
    with open(outfile, 'w') as outf:
       pickle.dump(normalized_liwc_scores, outf)
 

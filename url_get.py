@@ -28,7 +28,7 @@ def get_urls( url, name ):
 
    print len(urls)
 
-   with open("{0}URL.txt".format(name), 'w+') as f:
+   with open("URLS/{0}URL.txt".format(name), 'w+') as f:
       for address in urls:
          f.write( base + address[3:] + '\n' )
       

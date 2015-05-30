@@ -55,7 +55,7 @@ def mix_scrape_save( URL, name):
    
 def scrape_and_save( name ):
    infile = name + "URL.txt"
-   outfile = name + "EXT.txt"
+   outfile = "EXT/" + name + "EXT.txt"
    extractions = []
 
    with open(infile, 'r') as f:

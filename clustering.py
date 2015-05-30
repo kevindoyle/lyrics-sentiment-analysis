@@ -21,7 +21,7 @@ if __name__ == '__main__':
    while i < len( art_list ):
       artist_name = art_list[i+1].strip()
       artist_name_dic[artist_name] = 0
-      score_file_name = artist_name + "SCORES.pickle"
+      score_file_name = "SCORES/" + artist_name + "SCORES.pickle"
       with open(score_file_name, 'r') as sfn:
          scores = pickle.load(sfn)
       scores_dic[artist_name] = scores
