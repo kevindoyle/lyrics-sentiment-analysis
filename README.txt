@@ -12,10 +12,11 @@ Non-standard Libraries used:
    scikit-learn
    newspaper
 
-What I have in git/info/exclude:
+What I have in .git/info/exclude:
    *.pyc
    *.dic
    word_category_counter.py
+   *EXT.txt
 
 Steps to take to do this:
 
