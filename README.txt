@@ -21,7 +21,7 @@ Non-standard libraries used:
    scikit-learn
    newspaper
 
-What I have in git/info/exclude:
+What I have in .git/info/exclude:
    *.pyc
    *.dic
    word_category_counter.py
