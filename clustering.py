@@ -46,12 +46,14 @@ if __name__ == '__main__':
       #print key, '\n', sorted(score_pairs, key=lambda pairs: pairs[1])
       #for num in xrange(1,5):
       kmean = KMeans(n_clusters = 7)
-      kfit = kmean.fit(numbers)
+      kfit = kmean.fit(numbers, y=names)
+
       for idx,grp in enumerate(kfit.labels_):
          try:
-            clusters[key][grp] += names[idx]
+            clusters[key][grp] += (names[idx], numbers[idx])
          except KeyError:
-            clusters[key][grp] = names[idx]
+            clusters[key][grp] = (names[idx], numbers[idx])
+      
    
     #FOR OUTPUT OF ALL CLUSTERS
    for key in clusters.keys():
@@ -74,5 +76,5 @@ if __name__ == '__main__':
    results = sorted( results, key=lambda pairs: pairs[1], reverse=True)
    print results[1][0], " is most like ", results[0][0]
    print results
-
+   
    
