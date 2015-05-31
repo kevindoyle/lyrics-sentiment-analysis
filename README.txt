@@ -96,3 +96,15 @@ Run clustering.py
    
 This file is still in progress. 
 It prints out the comparison evaluation for an artist hard coded in line 66
+
+_____________________
+Ideas for Future Work
+---------------------
+
+   Method for looking at all the ties between artists.
+   
+   Ranking of clusters in output, for more/less
+
+   Selecting frequently used words and looking at their context to establish sentiment for specific nouns/verbs.
+   
+   Creating a demonstration of topics/sentiments to quantify differences between each cluster.
